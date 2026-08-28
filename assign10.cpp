@@ -116,6 +116,5 @@ int Queue::countElement()
     else
     {
         return capacity-(front-rear)+1;
-    }         
-}
-
+    }
+}             
