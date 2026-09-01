@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> //dynamic Array
 #define INVALID_CAPACITY 1;
 #define ARRAY_NOT_CREATE 2;
 #define INVALID_INDEX 3;
