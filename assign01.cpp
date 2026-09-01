@@ -24,7 +24,7 @@ class Array{
        int findElement(int);
 
 }; 
-Array::Array(int cap)
+Array::Array(int cap) //question 1
 {
     if(cap<1)
       throw INVALID_CAPACITY;
