@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>// deep copy
 using namespace std;
 #define INVALID_CAPACITY 1;
 #define ARRAY_NOT_CREATE 2;
