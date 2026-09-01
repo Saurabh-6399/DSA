@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>   //Stack using Array
 #define INVALID_CAPACITY 1
 #define STACK_OVERFLOW 2
 #define INVALID_STACK 3
