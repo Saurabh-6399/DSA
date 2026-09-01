@@ -20,7 +20,7 @@ class DLL{
       void deleteNode(int);
       ~DLL();
 }; 
-DLL::DLL()
+DLL::DLL() //question 2
 {
     start=nullptr;
 }
