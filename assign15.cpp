@@ -1,8 +1,6 @@
 #include<iostream> //recursion
 using namespace std;
 class Recursion{
-    private:
-      int x;
     public:
        void printN(int);
        void printReverseN(int);
